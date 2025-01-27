@@ -24,5 +24,5 @@ The detailed view has all the functionality of the Short Post View. It does, how
 
 ### AI Analysis
 
-[Read more about AI Analysis](https://github.com/CreSh-Creativity-Share/.github/blob/main/profile/ai_analysis.md)
+[Read more about AI Analysis](https://github.com/Cresh-Group/cresh-manual/blob/main/ai_analysis.md)
 
