@@ -23,12 +23,13 @@ Meaning of the grade:
  * F - strongly recommend to stop further development.
 
 Evaluation depends on the obtained values of the analysis metrics. You can find the exact list of obtained metrics below.
+![img.png](assets/short_idea.png)
 
 ## Detail view
 
 However, we see the greatest value in the detailed view, which includes explanations of the ratings given and suggestions related to them. Everything is presented in charts that allow intuitive evaluation of the idea.
 
-:warning: **Click on rate to go to detail view** :warning:
+![img.png](assets/details_analysis.png)
 
 To better understand the intricate metrics, we decided to divide them into 5 categories:
 
