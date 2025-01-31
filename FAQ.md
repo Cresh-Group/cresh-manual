@@ -6,7 +6,7 @@
 ### 2. Can I analyze an idea without purchasing a Cresh Coin?
 No, you need to purchase at least one Cresh Coin.
 
-### 3. How many nalyses can i perform with one Cresh Coin?
+### 3. How many analyses can i perform with one Cresh Coin?
 You can perform exactly one analysis per Cresh Coin.
 
 ### 4. How do refunds work?
