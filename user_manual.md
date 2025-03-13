@@ -1,7 +1,7 @@
 # User Manual
 
 ### Authorization
-Cresh allows only logged in user to access the main dashboard.
+Cresh allows only logged-in user to access the main dashboard.
 
 To log into the system, press the login icon in the upper right corner.
 ![img.png](assets/sign_in.png) 
@@ -35,7 +35,7 @@ The detailed view has all the functionality of the Short Post View. It does, how
 To have access to trigger the idea evaluation you need to have at least 1 Cresh Coin. There are 3 options to get Cresh Coins:
 * 9$ - you will get 1 Cresh Coin
 * 19$ - you will get 3 Cresh Coins
-* 29$ - you will get 29 Cresh Coins
+* 29$ - you will get 10 Cresh Coins
 
 ![img.png](assets/pricing.png)
 
