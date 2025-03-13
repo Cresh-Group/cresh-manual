@@ -13,7 +13,7 @@ Naturally, there is also a logout button. You can find it in the upper right cor
 
 ### Dashboard
 
-Dashboard view is the main view of the application. On it, you can find all your ideas. On right side you can see them sorted by latest or best score. 
+Dashboard view is the main view of the application. On it, you can find all your ideas. On right side you can see them sorted by latest. 
 ![img.png](assets/dashboard.png)
 
 #### Short Post View
@@ -25,9 +25,8 @@ The displayed ideas include basic information and a brief description. If you wa
 ### Detail Post View
 
 The detailed view has all the functionality of the Short Post View. It does, however, include [AI analysis](#ai-analysis) by friendly artificial intelligence and allows you to review it.
-![img.png](assets/details_short_analysis.png)
+![img.png](assets/analysis_result.png)
 
-![img.png](assets/details_analysis.png)
 ### AI Analysis
 
 [Read more about AI Analysis](https://github.com/Cresh-Group/cresh-manual/blob/main/ai_analysis.md)
